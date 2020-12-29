@@ -3,10 +3,11 @@
 Based on [this video](https://www.youtube.com/watch?v=WfCJ3sHnLBM)
 
 ## ToDoList:
-- Create some other data (e.g. Books or DVDs tables )
+- Create some other data (e.g. Books or DVDs tables)
 - Create other endpoints /api/books, etc.
 - Test with existing database
-- ...
+- Check whether using MySQL or MySQL2
+- ... 
 
 ## Packages:
 - Express
