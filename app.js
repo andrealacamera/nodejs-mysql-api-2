@@ -4,7 +4,7 @@ const userRouter = require('./api/users/user.router');
 const app = express();
 
 dotenv.config();
-app.use(express.json());
+app.use(express.json()); //json requests 
 
 app.use('/api/users/', userRouter);
 

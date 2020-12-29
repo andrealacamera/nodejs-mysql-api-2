@@ -2,6 +2,11 @@
 
 Based on [this video](https://www.youtube.com/watch?v=WfCJ3sHnLBM)
 
+## ToDoList:
+- Create some other data (e.g. Books or DVDs tables )
+- Create other endpoints /api/books, etc.
+- Test with existing database
+- ...
 
 ## Packages:
 - Express
@@ -9,10 +14,12 @@ Based on [this video](https://www.youtube.com/watch?v=WfCJ3sHnLBM)
 - Dotenv
 - (dev) Nodemon
 - bcrypt
+- jsonwebtoken
 
 ## Example database 
 DB: test_api2
-TABLES: 
+
+TABLE(s): 
 - users (id[pk], firstName, lastName, username, email, password)
 
 
