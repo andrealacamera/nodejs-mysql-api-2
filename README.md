@@ -5,12 +5,15 @@ Based on [this video](https://www.youtube.com/watch?v=WfCJ3sHnLBM)
 
 ## Packages:
 - Express
-- Mysql 
+- Mysql (or Mysql2 -- tbd)
 - Dotenv
 - (dev) Nodemon
 - bcrypt
 
 ## Example database 
+DB: test_api2
+TABLES: 
+- users (id[pk], firstName, lastName, username, email, password)
 
 
 ### Notes:
