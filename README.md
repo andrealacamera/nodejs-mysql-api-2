@@ -6,7 +6,7 @@ Based on [this video](https://www.youtube.com/watch?v=WfCJ3sHnLBM)
 - [ ] Create some other data (e.g. Books or DVDs tables)
 - [ ] Create other endpoints /api/books, etc.
 - [ ] Test with existing database
-- [ ] Decide whether using MySQL or MySQL2
+- [ ] Decide whether to use MySQL or MySQL2
 - [ ] Data validation  
 
 ## Packages:
