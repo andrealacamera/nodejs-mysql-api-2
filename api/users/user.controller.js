@@ -25,6 +25,8 @@ module.exports = {
         })
     },
     getUsers: (req,res) => {
+        const test = req.body;
+        console.log(test);
         getUsers((err,results) => {
             if (err) {
                 console.log(err);
